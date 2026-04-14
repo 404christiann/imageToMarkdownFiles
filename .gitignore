@@ -1,0 +1,21 @@
+# Generated markdown output — never commit these
+output/
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv
+venv/
+*.egg-info/
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
